@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/magtest/static/css/main.43646801.css",
+    "main.js": "/magtest/static/js/main.36167fb8.js",
+    "index.html": "/magtest/index.html",
+    "main.43646801.css.map": "/magtest/static/css/main.43646801.css.map",
+    "main.36167fb8.js.map": "/magtest/static/js/main.36167fb8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43646801.css",
+    "static/js/main.36167fb8.js"
+  ]
+}
