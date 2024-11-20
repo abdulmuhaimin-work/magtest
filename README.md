@@ -31,7 +31,7 @@ A modern, feature-rich Todo application built with React, TypeScript, and Tailwi
 
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/abdulmuhaimin-work/magtest.git
 cd todo-app
 ```
 
